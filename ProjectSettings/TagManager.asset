@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Product
   - Fruit
+  - Cash Register
   layers:
   - Default
   - TransparentFX

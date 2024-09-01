@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5697799957852413077}
   m_Layer: 0
   m_Name: Pizza
-  m_TagString: Fruit
+  m_TagString: Product
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 210464868167019263}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.8886702, z: -0, w: 0.4585469}
+  m_LocalRotation: {x: 0, y: -0.8886692, z: 0, w: 0.45854884}
   m_LocalPosition: {x: 11.097508, y: 1.644, z: -0.4768697}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -118,6 +118,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a9da87d1cc1da147bdb2e9c66ab3aa2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 0
-  productTag: 
-  productName: 
+  price: 2

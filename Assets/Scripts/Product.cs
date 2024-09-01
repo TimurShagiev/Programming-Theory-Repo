@@ -4,17 +4,13 @@ using UnityEngine;
 
 public class Product : MonoBehaviour
 {
-    public int price;
-    public string productTag;
-    public string productName;
+    public float price;
 
     private PlayerCursor playerCursor;
     // Start is called before the first frame update
     void Start()
     {
         playerCursor = GameObject.Find("Main Camera").GetComponent<PlayerCursor>();
-        productTag = gameObject.tag;
-        productName = gameObject.name;
     }
 
     // Update is called once per frame
@@ -22,5 +18,11 @@ public class Product : MonoBehaviour
     {
     }
 
-    
+    void getInInventory()
+    {
+        if (playerCursor.isClicked)
+        {
+            Destroy(gameObject);
+        }
+    }
 }

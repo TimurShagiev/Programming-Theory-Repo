@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4061904416276327012}
   m_Layer: 0
   m_Name: Sandwitch
-  m_TagString: Fruit
+  m_TagString: Product
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -118,6 +118,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a9da87d1cc1da147bdb2e9c66ab3aa2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 0
-  productTag: 
-  productName: 
+  price: 8
