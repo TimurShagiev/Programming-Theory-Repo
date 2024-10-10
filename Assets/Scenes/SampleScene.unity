@@ -390,8 +390,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 52881965}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &70716317
 GameObject:
   m_ObjectHideFlags: 0
@@ -677,7 +675,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &144891868
 GameObject:
   m_ObjectHideFlags: 0
@@ -706,13 +703,8 @@ Transform:
   m_GameObject: {fileID: 144891868}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 15.53, y: -6.18, z: -2.23}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 15.53, y: -6.36, z: -2.23}
+  m_LocalPosition: {x: 15.53, y: -6.51, z: -2.23}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -788,8 +780,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 144891868}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &157121875
 GameObject:
   m_ObjectHideFlags: 0
@@ -1055,7 +1045,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &185524678
 GameObject:
   m_ObjectHideFlags: 0
@@ -1162,8 +1151,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &187719739
 GameObject:
   m_ObjectHideFlags: 0
@@ -1677,7 +1664,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &293114082
 GameObject:
   m_ObjectHideFlags: 0
@@ -1692,7 +1678,7 @@ GameObject:
   - component: {fileID: 293114084}
   m_Layer: 0
   m_Name: Cashier (1)
-  m_TagString: Untagged
+  m_TagString: Cash Register
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1783,8 +1769,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 293114082}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &293573943
 GameObject:
   m_ObjectHideFlags: 0
@@ -2127,7 +2111,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &375761458
 GameObject:
   m_ObjectHideFlags: 0
@@ -2368,8 +2351,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 397759568}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
 --- !u!1 &405702176
 GameObject:
   m_ObjectHideFlags: 0
@@ -2854,12 +2835,9 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1675380811}
-  - {fileID: 293114083}
+  m_Children: []
   m_Father: {fileID: 1376728981}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> Stashed changes
 --- !u!1 &520473139
 GameObject:
   m_ObjectHideFlags: 0
@@ -2888,13 +2866,8 @@ Transform:
   m_GameObject: {fileID: 520473139}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 15.53, y: -4.89, z: -16.08}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 15.53, y: -4.24, z: -16.08}
+  m_LocalPosition: {x: 15.53, y: -4.5, z: -16.08}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -3409,11 +3382,8 @@ RectTransform:
   - {fileID: 742563350}
   - {fileID: 1682104019}
   - {fileID: 397759569}
-<<<<<<< Updated upstream
-=======
   - {fileID: 1495296639}
   - {fileID: 1675301700}
->>>>>>> Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4119,7 +4089,7 @@ MonoBehaviour:
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
+  m_enableWordWrapping: 0
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
@@ -4352,13 +4322,8 @@ Transform:
   m_GameObject: {fileID: 816232513}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 15.53, y: -6.18, z: -16.08}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 15.53, y: -6.36, z: -16.08}
+  m_LocalPosition: {x: 15.53, y: -6.51, z: -16.08}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -4519,13 +4484,8 @@ Transform:
   m_GameObject: {fileID: 833930362}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 21.01, y: -6.18, z: 12.67}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 21.01, y: -6.36, z: 12.67}
+  m_LocalPosition: {x: 21.01, y: -6.51, z: 12.67}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -4601,8 +4561,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 833930362}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &835405640
 GameObject:
   m_ObjectHideFlags: 0
@@ -5287,7 +5245,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -5300,6 +5257,7 @@ GameObject:
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
   - component: {fileID: 963194229}
+  - component: {fileID: 963194230}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -5397,8 +5355,6 @@ MonoBehaviour:
   sensY: 400
   orientation: {fileID: 1332043937}
   cameraPosition: {fileID: 2002835240}
-<<<<<<< Updated upstream
-=======
 --- !u!114 &963194230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5764,7 +5720,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &1092894071
 GameObject:
   m_ObjectHideFlags: 0
@@ -5870,8 +5825,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1092894071}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1123130885
 GameObject:
   m_ObjectHideFlags: 0
@@ -6100,7 +6053,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &1149321032
 GameObject:
   m_ObjectHideFlags: 0
@@ -6129,13 +6081,8 @@ Transform:
   m_GameObject: {fileID: 1149321032}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 33.88, y: -4.89, z: -2.0300012}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 33.88, y: -4.24, z: -2.0300012}
+  m_LocalPosition: {x: 33.88, y: -4.5, z: -2.0300012}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -6535,8 +6482,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1160970138}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1177902760
 GameObject:
   m_ObjectHideFlags: 0
@@ -6993,7 +6938,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &1332043936
 GameObject:
   m_ObjectHideFlags: 0
@@ -7224,13 +7168,8 @@ Transform:
   m_GameObject: {fileID: 1359013643}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 15.53, y: -4.89, z: -2.23}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 15.53, y: -4.24, z: -2.23}
+  m_LocalPosition: {x: 15.53, y: -4.5, z: -2.23}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -7306,8 +7245,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1359013643}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1362474396
 GameObject:
   m_ObjectHideFlags: 0
@@ -7479,7 +7416,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &1376728980
 GameObject:
   m_ObjectHideFlags: 0
@@ -7526,6 +7462,7 @@ Transform:
   - {fileID: 42039030}
   - {fileID: 52881966}
   - {fileID: 375761459}
+  - {fileID: 509479333}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1379827665
@@ -8089,13 +8026,8 @@ Transform:
   m_GameObject: {fileID: 1541563139}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 21.01, y: -4.89, z: 12.67}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 21.01, y: -4.24, z: 12.67}
+  m_LocalPosition: {x: 21.01, y: -4.5, z: 12.67}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -8814,7 +8746,7 @@ GameObject:
   - component: {fileID: 1675380812}
   m_Layer: 0
   m_Name: Cashier
-  m_TagString: Untagged
+  m_TagString: Cash Register
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9107,8 +9039,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!1 &1703522837
 GameObject:
   m_ObjectHideFlags: 0
@@ -9870,7 +9800,6 @@ MonoBehaviour:
   - {fileID: 5520294684098768010, guid: 7338d7a7993b6a44a8b1ead6bdac6564, type: 3}
   - {fileID: 2155777167569044207, guid: bd7e4a83addd162439308640a4cb2ae4, type: 3}
   - {fileID: 9091130257410580020, guid: 1fb8f7dbbfbd0974c820dfd24fc3eeda, type: 3}
->>>>>>> Stashed changes
 --- !u!1 &1897412828
 GameObject:
   m_ObjectHideFlags: 0
@@ -9899,13 +9828,8 @@ Transform:
   m_GameObject: {fileID: 1897412828}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-<<<<<<< Updated upstream
-  m_LocalPosition: {x: 33.88, y: -6.18, z: -2.03}
-  m_LocalScale: {x: 19.730465, y: -0.32817352, z: 2.4070215}
-=======
-  m_LocalPosition: {x: 33.88, y: -6.36, z: -2.03}
+  m_LocalPosition: {x: 33.88, y: -6.51, z: -2.03}
   m_LocalScale: {x: 19.730465, y: 0.3281735, z: 2.4070215}
->>>>>>> Stashed changes
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1376728981}
@@ -10650,3 +10574,5 @@ SceneRoots:
   - {fileID: 598525811}
   - {fileID: 1697428747}
   - {fileID: 1376728981}
+  - {fileID: 166698231}
+  - {fileID: 1050100002}
