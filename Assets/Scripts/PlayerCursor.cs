@@ -12,7 +12,7 @@ public class PlayerCursor : MonoBehaviour
     public TextMeshProUGUI cursor;
     public GameObject dontNeedText;
 
-    public bool onCursor = false;
+    public bool onCursor { get; private set; } = false;
 
     Camera cam;
 

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4888779763633445647}
   - component: {fileID: 5925610695193841510}
   - component: {fileID: 3630442416882843265}
-  - component: {fileID: -4164136781895212586}
+  - component: {fileID: 5861422768120717184}
   m_Layer: 0
   m_Name: Bottle
   m_TagString: Product
@@ -107,7 +107,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.24241097, y: 0.9589979, z: 0.24241097}
   m_Center: {x: 0, y: -0.000000059604645, z: 0}
---- !u!114 &-4164136781895212586
+--- !u!114 &5861422768120717184
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -116,11 +116,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 7408810309250027129}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a9da87d1cc1da147bdb2e9c66ab3aa2, type: 3}
+  m_Script: {fileID: 11500000, guid: a0b5c0dd05bc4f44aa7132e6fda6c6f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 32
+  price: 0
   isAllowed: 1
+  bubbles: {fileID: 0}
 --- !u!1001 &124389917335533209
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -135,7 +136,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 194016, guid: 263867d4955e3644f9a1dfa779ab7d1e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 475750, guid: 263867d4955e3644f9a1dfa779ab7d1e, type: 3}
       propertyPath: m_LocalScale.x

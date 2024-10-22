@@ -6,13 +6,16 @@ using UnityEngine;
 public class Alcohol : Product
 {
 
-    ParticleSystem bubbles;
-    private PlayerCursor playerCursor;
+    public ParticleSystem bubbles;
+    public PlayerCursor playerCursor;
+
+    public bool isPlaying = false;
     // Start is called before the first frame update
     void Start()
     {
         posOffset = transform.position;
         playerCursor = GameObject.Find("Main Camera").GetComponent<PlayerCursor>();
+        bubbles = GetComponentInChildren<ParticleSystem>();
         bubbles.Stop();
     }
 
@@ -26,9 +29,14 @@ public class Alcohol : Product
         base.Idle();
         if (playerCursor.onCursor)
         {
-            bubbles.Play();
+            if (!isPlaying)
+            {
+                bubbles.Play();
+                isPlaying = true;
+            }
         } else
         {
+            isPlaying = false;
             bubbles.Stop();
         }
     }

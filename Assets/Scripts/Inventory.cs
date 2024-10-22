@@ -15,7 +15,23 @@ public class Inventory : MonoBehaviour
     public List<GameObject> productsInventory = new List<GameObject>();
     public List<GameObject> productsToBuy = new List<GameObject>();
 
-    public float money;
+    private float m_money = 1; 
+    public float money
+    {
+        get { return m_money; }
+        set 
+        { 
+            if (value < 0.0f)
+            {
+                Debug.LogError("Money can't be negative. Setting to 0");
+                m_money = 0.0f;
+            } 
+            else
+            {
+                m_money = value;
+            }
+        }
+    }
 
     public TextMeshProUGUI inventory;
     public TextMeshProUGUI moneyText;
