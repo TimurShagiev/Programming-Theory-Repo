@@ -15,7 +15,7 @@ public class Inventory : MonoBehaviour
     public List<GameObject> productsInventory = new List<GameObject>();
     public List<GameObject> productsToBuy = new List<GameObject>();
 
-    private float m_money = 1; 
+    private float m_money = 100; 
     public float money
     {
         get { return m_money; }

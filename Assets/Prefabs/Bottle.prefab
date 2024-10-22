@@ -119,9 +119,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0b5c0dd05bc4f44aa7132e6fda6c6f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  price: 0
+  price: 10
   isAllowed: 1
   bubbles: {fileID: 0}
+  playerCursor: {fileID: 0}
+  isPlaying: 0
 --- !u!1001 &124389917335533209
 PrefabInstance:
   m_ObjectHideFlags: 0
