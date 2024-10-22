@@ -71,7 +71,7 @@ public class Inventory : MonoBehaviour
 
     public bool UpdateShoppingList(string product)
     {
-        if (shopList.text.Contains(product))
+        if (shopList.text.Contains(product) && !shopList.text.Contains("<s>" + product + "</s>"))
         {
             shopList.text = shopList.text.Replace(product, "<s>" + product + "</s>");
             return true;
